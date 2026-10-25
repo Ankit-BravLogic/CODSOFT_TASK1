@@ -1,0 +1,13 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.ipynb_checkpoints/
+
+# Large datasets: keep local, don't upload to GitHub
+data/
+
+# Generated model files: keep local for now
+models/*.pkl
